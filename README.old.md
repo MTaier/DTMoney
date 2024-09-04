@@ -1,2 +1,0 @@
-# DTMoney
-Finance Control App
